@@ -118,6 +118,3 @@ cd capstone_project_deploy/capstone_project
 site live at  =>     https://capstone-project-deploy-5skj.onrender.com/login
  
 
-
-
-
